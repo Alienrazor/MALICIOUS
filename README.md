@@ -7,14 +7,9 @@
 <p align="center">
 <a href="https://bit.ly/3bgtjYk"><img title="Made in PAKISTAN" src="https://img.shields.io/badge/Tool-MALICIOUS-green.svg"></a>
 
-<a href="https://bit.ly/3bgtjYk"><img title="Version" src="https://img.shields.io/badge/Version-2.1-green.svg?style=flat-square"></a>
-
-<a href="https://bit.ly/3bgtjYk"><img title="Maintainence" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
-
 </p>
 
 <p align="center">
-
 <a href="https://bit.ly/3bgtjYk"><img title="MALICIOUS" src="https://user-images.githubusercontent.com/49580304/96560822-a3963000-1273-11eb-8fc0-36cccf.jpg"></a>
 
 </p>
@@ -28,9 +23,7 @@
 <p align="center">
 <a href="https://github.com/Alienrazor"><img title="Language" src="https://img.shields.io/badge/Made%20with-Bash-1f425f.svg?v=103"></a>
 
-<a href="https://github.com/Alienrazor"><img title="Followers" src="https://img.shields.io/github/followers/noob-hackers?color=blue&style=flat-square"></a>
-
-<a href="https://github.com### TESTED ON :
+### TESTED ON :
 
 * Termux
 
@@ -49,8 +42,6 @@
 * [+] Dangerous virus tool !
 
 * [+] Updated maintainence !
-
-* [+] Easy for beginners !
 
 * [+] Working virus tool for termux !
 
