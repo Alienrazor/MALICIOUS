@@ -10,10 +10,7 @@
 </p>
 
 <p align="center">
-
-<p align="left">
-
-<img src='https://github.com/Alienrazor/SS/blob/main/Screenshot_20221020_192116.jpg' style="height:600px;width:300px;" >
+<img src='https://github.com/Alienrazor/SS/blob/main/Screenshot_20221020_192116.jpg' style="height:1030px;width:600px;" >
 
 
 <p align="left"
