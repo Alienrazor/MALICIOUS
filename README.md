@@ -10,9 +10,14 @@
 </p>
 
 <p align="center">
-<a href="https://bit.ly/3bgtjYk"><img title="MALICIOUS" src="https://user-images.githubusercontent.com/49580304/96560822-a3963000-1273-11eb-8fc0-36cccf.jpg"></a>
 
-</p>
+<p align="left">
+
+<img src='https://github.com/Alienrazor/SS/blob/main/Screenshot_20221020_192116.jpg/>
+
+38
+
+<p align="left"
 
 <p align="center">
 <a href="https://github.com/Alienrazor"><img title="Github" src="https://img.shields.io/badge/Alien-Razor-brightgreen?style=for-the-badge&logo=github"></a>
