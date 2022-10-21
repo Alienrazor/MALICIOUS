@@ -26,6 +26,7 @@
 ### TESTED ON :
 
 * Termux
+* Linux Terminal 
 
 ### REQUIREMENTS :
 
@@ -59,6 +60,8 @@
 
 * `pip install lolcat`
 
+* `pkg install wget
+
 * `git clone https://github.com/Alienrazor/MALICIOUS`
 
 * `cd $HOME`
@@ -69,8 +72,10 @@
 
 * `ls`
 
-* `bash MALICIOUS.sh`
+* `chmod +x MALICIOUS.sh`
 
+* `bash MALICIOUS.sh` 
+  
 ```
 
 [+]-- Now you need internet connection to continue further process...
@@ -81,4 +86,5 @@
 
 ```
 
-## USAGE OPTIONS [Termux] :
+WARNING : 
+***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
