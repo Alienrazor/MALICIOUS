@@ -13,7 +13,7 @@
 
 <p align="left">
 
-<img src='https://github.com/Alienrazor/SS/blob/main/Screenshot_20221020_192116.jpg/>
+<img src='https://github.com/Alienrazor/SS/blob/main/Screenshot_20221020_192116.jpg'style="height:600px;width:300px;" >
 
 38
 
