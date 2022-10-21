@@ -13,7 +13,7 @@
 <img src='https://github.com/Alienrazor/SS/blob/main/Screenshot_20221020_192116.jpg' style="height:1030px;width:600px;" >
 
 
-<p align="left"
+<p align="center"
 
 <p align="center">
 <a href="https://github.com/Alienrazor"><img title="Github" src="https://img.shields.io/badge/Alien-Razor-brightgreen?style=for-the-badge&logo=github"></a>
