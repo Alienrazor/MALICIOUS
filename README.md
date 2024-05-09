@@ -61,7 +61,7 @@
 
 * `pip install lolcat`
 
-* `pkg install wget
+* `pkg install wget`
 
 * `git clone https://github.com/Alienrazor/MALICIOUS`
 
